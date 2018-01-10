@@ -44,3 +44,4 @@ In this project only one controller 'FRSController' is there which is autowired 
 ## DAO :
 - FlightDAO.java is an interface that contains set of methods.
 - FlightDAOImpl.java is a class that implements FlightService and access database using Hibernate by autowiring SessionFactory.
+(still needs to add some more files)
